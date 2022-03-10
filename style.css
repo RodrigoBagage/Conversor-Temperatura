@@ -1,0 +1,50 @@
+body {
+    font-family: cursive;
+    font-size: larger;
+    color: black;
+    background-color: #FFA07A;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+       
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+  height: 100vh;
+
+}
+
+.page-logo {
+    width: 500px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tabela{
+    width: 1000px;
+    border: #FF4500;
+    margin-left: 0pt;
+    margin-right: 1000pt;
+}
+
+input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+button {
+    font-family: cursive;
+    padding: 8px 10px;
+    border-radius: 10px;
+    background: #FF4500;
+    color: aliceblue;
+}
+
+h2{
+    color: black;
+}
